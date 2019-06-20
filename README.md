@@ -1,2 +1,0 @@
-# hqq
-Created with CodeSandbox
